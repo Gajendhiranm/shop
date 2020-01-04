@@ -1,0 +1,92 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin:0;
+    padding:0;
+    font-family: montserrat;
+}
+.navbar{
+    font: 18px Montserrat, sans-serif;
+    padding:15px;
+    letter-spacing: 3px;
+    background:transparent !important;  
+  }
+  
+.navbar-nav  li a{
+    color:black !important;
+      }
+h1{
+    font-size: 60px;
+    text-transform: uppercase;
+    color:#03c2fc;
+}      
+/*scroll changing*/
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  #mainimage{
+      margin-left: 10%;
+  }
+  h2{
+      text-align: center;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color:#03c2fc;
+  }
+  h6,p1{
+    text-align: center;
+  }
+  p,end{
+    text-align: center;
+    text-transform: uppercase;
+  }
+  #cardoneimage,#cardtwoimage,#cardthreeimage,#cardthreeimage,#cardfourimage{
+    text-align: center;
+  }
+  .card p{
+    margin-top:20px;
+  }
+  .card{
+    padding-bottom: 10px;
+   }
+   #aim{
+     margin-left: 130px;
+   }
+   #exp{
+     font-size: 30px;
+     color:#03c2fc;
+   }
+   #block{
+     margin-left: 90px !important;
+   }
+   #blog{
+     margin-left: 250px;
+   }
+   H4{
+     text-align: center;
+   }
+   .final{
+     background-color: #03c2fc;
+     padding-top: 20px;
+  
+   }
+   section{
+     margin-left: 70px;
+   }
